@@ -20,9 +20,8 @@ This was created as an assignment for the University of Minnesota's Coding Bootc
 
 ![gif of results]()
 
-##Created Using:
+## Created Using:
 
 * Express NPM Package
 * Node.js
-* MySQL
 

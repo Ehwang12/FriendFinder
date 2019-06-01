@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/************** homepage *****************/
+.background {
+    background-image: url("/image/bgimage.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100vh;
+}
+
+.jumbotron {
+    margin: 0 10% 0 10%;
+}
+
+p {
+    font-family: 'Concert One', cursive;
+}
+
+/************** survey *****************/
+
+h3 {
+    margin-top: 2rem;
+}
+
+#surveySubmit {
+    margin: 3%;
+    margin-left: 0;
+}
