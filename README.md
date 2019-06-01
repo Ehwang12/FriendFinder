@@ -10,9 +10,15 @@ This was created as an assignment for the University of Minnesota's Coding Bootc
 
 1. Enter your name and a picture of yourself.
 
+![gif of entering name and picture link]()
+
 2. Fill out the survey and then once you're finished submit your answers.
 
+![gif of filling out survey]()
+
 3. Based on your results we'll match you with a furry friend!
+
+![gif of results]()
 
 ##Created Using:
 
